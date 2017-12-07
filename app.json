@@ -1,0 +1,13 @@
+{
+  "name": "takeaway Heroku Login App",
+  "description": "takeaway Heroku Login App",
+  "keywords": [
+    "takeaway",
+    "python",
+    "sample"
+  ],
+  "repository": "https://github.com/incomparable/Gaurav-takeaway.git",
+  "addons": [
+    "heroku-mongodb"
+  ]
+}
